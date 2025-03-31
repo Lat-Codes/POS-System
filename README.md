@@ -1,7 +1,9 @@
 # POS-System
 
 Authors: Daéja Salmon and Latanya Williams
+
 Date Created: March 25, 2025
+
 Course: ITT103 
 
 Purpose
