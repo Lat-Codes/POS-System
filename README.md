@@ -1,5 +1,9 @@
 # POS-System
 
+Authors: Daéja Salmon and Latanya Williams
+Date Created: March 25, 2025
+Course: ITT103 
+
 Purpose
  
 This Python, Point of Sale (POS) system, program was developed for Best Buy Retail Store to digitise their sales process. It allows cashiers to easily and efficiently add or remove items from a shopping cart, view carts, calculate totals (including tax), apply discounts, accept payments, generate receipts and receive low-stock alerts. 
