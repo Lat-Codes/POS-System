@@ -1,6 +1,3 @@
-# Pythonistas' Point of Sale (POS) system
-# Best Buy Retail Store
-
 def initialize_inventory(): # Initialize Inventory with prices and stock
 # Return allows the inventory to be edited and used elsewhere
   return {
